@@ -1,0 +1,19 @@
+binary 
+
+in binary the 0 = 0 and the 1 = the number in that place
+the 0 = no, 1 = yes
+the number place is a multiple of the previous number times two
+ex: 1 * 2 = the second place closest to the decimal
+there are eight place values because there are eight bits in a byte
+if an octet end in a 1 its odd, and if it ends in a 0 its even
+
+2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0 = 128|64|32|8|4|2|1
+128|64|32|8|4|2|1 = from the farthest from the decimal
+
+1100000.10101000.00001010.00000001 = 192.168.10.1
+
+1100000 = 128+64+0+0+0+0+0+0 = 192
+10101000 = 128+0+32+0+8+0+0+0 = 168
+00001010 = 0+0+0+0+8+0+2+0 = 10
+00000001 = 0+0+0+0+0+0+0+1 = 1
+
